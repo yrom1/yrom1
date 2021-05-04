@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yrom1
-- 👀 I’m interested in doing cool stuff with data
+- 👀 I’m interested in transforming data in useful ways
 - 🌱 I’m currently learning Python3, and algos & data structs
 
 <!---
