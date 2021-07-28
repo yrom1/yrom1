@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @yrom1
-- 🌱 I'm self studying cs
-- 🌳 I want to be a programmer one day!
+
